@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PASSWORD-GENERATOR/static/css/main.85da4eb3.css",
+    "main.js": "/PASSWORD-GENERATOR/static/js/main.36d588ac.js",
+    "static/media/correto.svg": "/PASSWORD-GENERATOR/static/media/correto.680d2fb0e4a7fe4672c3.svg",
+    "index.html": "/PASSWORD-GENERATOR/index.html",
+    "static/media/copiar.svg": "/PASSWORD-GENERATOR/static/media/copiar.2f6422772dca23d13dfb3d78a8a7a89f.svg",
+    "static/media/right.svg": "/PASSWORD-GENERATOR/static/media/right.9e6e80f0e716dc7a5f7eafefb8612732.svg",
+    "main.85da4eb3.css.map": "/PASSWORD-GENERATOR/static/css/main.85da4eb3.css.map",
+    "main.36d588ac.js.map": "/PASSWORD-GENERATOR/static/js/main.36d588ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85da4eb3.css",
+    "static/js/main.36d588ac.js"
+  ]
+}
